@@ -12,8 +12,9 @@
 
  Jupyter Notebook can be started through command line by running jupyter notebook in Terminal for Linux and Mac or Command Prompt for Windows.[1] The notebook will automatically open in the browser, it is possible to navigate it through the dashboard that contains files, notebook with .ipynb extension, Readme file and all the other files uploaded for the project.
 
-### Notebook URL
- 
+### Notebook URL  
+ https://github.com/Tanja888/PfDA-Project2/blob/main/Wisconsin-Breast-Cancer-analysis.ipynb  
+
 ### Setup and Libraries
  Libraries used in the notebook 
   ```python
