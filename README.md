@@ -1,6 +1,6 @@
 ## Programming for Data Analysis Project2
  
-## Wisconsin Breast Cancer dataset analysis
+## Wisconsin Breast Cancer Dataset Analysis
 
 ## About the Project
  The purpose of this project was to get an insight into some of the classification models for machine learning using Wisconsin Breast Cancer dataset.
@@ -31,6 +31,10 @@
     from sklearn import preprocessing
     from sklearn.tree import DecisionTreeClassifier
     from sklearn.ensemble import RandomForestClassifier
+    import warnings
+    from sdv.tabular import GaussianCopula
+    from sdv.evaluation import evaluate
+    from sdv.metrics.tabular import StatisticSimilarity
 ```
 
 ### Conclusion
